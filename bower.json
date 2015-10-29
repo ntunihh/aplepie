@@ -1,11 +1,11 @@
 {
   "name": "aplepie",
   "version": "0.1.0",
-  "homepage": "https://github.com/ntunihh/aplepie",
+  "homepage": "https://github.com/ntunihh/aplepie/",
   "authors": [
     "Alex Chaplinsky <alchapone@yandex.ru>"
   ],
-  "description": "Semantic and modular CSS toolkit",
+  "description": "fine to eat",
   "main": "dist/css/applepie.css",
   "keywords": [
     "css",
